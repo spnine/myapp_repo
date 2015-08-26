@@ -1,0 +1,12 @@
+INDEX VERSION 1.3+E:\Programs\Enide-2015-7-windows-x32-20150706\workspace1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3330841168.index
+2474963168.index
+1047445859.index
+1476009800.index
+1755212904.index
+2033972507.index
+1926949806.index
+1673921165.index
+928882058.index
+1021918152.index
+1331337321.index
